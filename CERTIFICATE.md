@@ -28,7 +28,10 @@ The ten-index count has not been separately recomputed over the entire range her
 
 ## Guide's independent check
 
-pending
+12 November 2026: the guide reviewed the answer this repository is built from and recorded the verdict in
+[athanor-oeis tasks/README.md](https://github.com/iwasborninbali/athanor-oeis/blob/main/tasks/README.md): REFUTED by the entry's own b-file; the guide checked the failures.
+The write-up in this repository (`proof.md` and the programs, prepared by a Codex core on 13 November 2026) has not yet been
+re-read by the guide; until it is, this record stays a candidate.
 
 ## Verdict
 

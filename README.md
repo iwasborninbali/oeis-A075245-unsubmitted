@@ -1,7 +1,7 @@
 # OEIS A075245: maximum-denominator formula fails (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted** (lab registry, 14 Nov 2026).
 
 - [A075245](https://oeis.org/A075245), conjectured formula fails at n = 409 (10 failures up to 2000): **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
 
